@@ -1,7 +1,7 @@
 py-ecc==5.2.0 \
     --hash=sha256:525b95aae5bbc185baff7dbfdb9bbd14d2c9454a797457f3edc85fd14c2ad7a6 \
     --hash=sha256:f0aabdc82813ecb2e75e0531e3850295ff1a96bedfba42f15b5bc7f39ced64ba
-pycryptodome==3.14.1 \
+pycryptodome==3.19.1 \
     --hash=sha256:028dcbf62d128b4335b61c9fbb7dd8c376594db607ef36d5721ee659719935d5 \
     --hash=sha256:12ef157eb1e01a157ca43eda275fa68f8db0dd2792bc4fe00479ab8f0e6ae075 \
     --hash=sha256:2562de213960693b6d657098505fd4493c45f3429304da67efcbeb61f0edfe89 \
